@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiohttp
+aiomysql
+mysql-connector-python
+openai
+jinja2
+python-dotenv
+beautifulsoup4
+requests
